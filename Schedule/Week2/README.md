@@ -8,16 +8,18 @@
   * GPU Memory Hierarchy
   	~ Warps
  	~ Synchronization
-* Hands on OpenCL example ( **Guest lecture from Belaid from Compute Canada?** )
+* Hands on OpenCL example ( **tentative: guest lecture by Belaid from Compute Canada?** )
   * How to connect, upload, and run a program on the Westgrid systems
   * Explanation and walkthrough of OpenCL code
 
 ##### Learning Objectives
 * Understand what a kernel is, and how to write a simple one
 * Explore a program containing OpenCL
-* High-level understanding of how to evolve a sequential algorithm/solution into a parallel one. 
 
 ##### Homework: Assignment 2 - Due at the end of following week
-1.  Introduce yourself, including your area of research and parallel programming experience.
-2.	Why do you think running code in parallel will help overall performance. Will splitting up execution between 8 processing units get an 8x speed-up over a single processing unit? Why or why not?
-3.	Do you foresee any problems involved with splitting execution up between multiple processing units, from a scalability and performance perspective?
+1. Connect and upload the example files to one of the Westgrid systems
+2.	Obtain device information 
+3.	Explore the add function. Are there any ways 
+
+**Note:** If Belaid cannot attend, the hands-on OpenCL lecture will be very similar to the Introduction to OpenCL found [here] (http://developer.amd.com/tools-and-sdks/heterogeneous-computing/amd-accelerated-parallel-processing-app-sdk/introductory-tutorial-to-opencl/), 
+which covers roughly the same material as Belaid's lecture. He also showed how to use the Westgrid systems, and add a simple vector addition function to the code. 
