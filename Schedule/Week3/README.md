@@ -3,16 +3,19 @@
 #### Lecture 5/6/7
 
 ##### Topics
-* Welcome
-* Introduction 
-* What is parallel programming?
-  - Motivation
-  - Difficulties
-
+* Optimization strategies
+  * Higher-level glance
+  * Algorithms
+  * Where is the bottleneck?
+* Optimization in OpenCL
+  * Preprocessing
+  * Memory Coalescing
+  * Local Reductions
+  
 ##### Learning Objectives
-* Understand why the shift towards parallel technologies occured
-* The challenges this shift introduces to programmers
-* High-level understanding of how to evolve a sequential algorithm/solution into a parallel one. 
+* Understand the many factors involved with the optimization of a parallel solution
+* Exploration of different optimization strategies
+* Introduction on strategies to detect most threatening bottleneck(s).
 
 ##### Homework: Assignment 0 - Due before following lecture
 1.  Introduce yourself, including your area of research and parallel programming experience.
