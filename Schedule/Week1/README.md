@@ -38,5 +38,5 @@
 ##### Homework: Assignment 1 – Due at the end of following week
 1.  In C or C++, what information can you infer about the size of the system’s caches. Use any timer’s you deem necessary
 2.	Outline the approach used in your code? How confident are you in your answers? Was there any noise in your results? If so, explain why you think this might occur
-3.	Creation of Compute Canada account.
+3.	Create a Compute Canada account.
 
