@@ -1,39 +1,24 @@
-### Week 1
+### Week 4
 
-#### Lecture 1
-
-##### Topics
-* Welcome
-* Introduction 
-* What is parallel programming?
-  - Motivation
-  - Difficulties
-
-##### Learning Objectives
-* Understand why the shift towards parallel technologies occured
-* The challenges this shift introduces to programmers
-* High-level understanding of how to evolve a sequential algorithm/solution into a parallel one. 
-
-##### Homework: Assignment 0 - Due before following lecture
-1.  Introduce yourself, including your area of research and parallel programming experience.
-2.	Why do you think running code in parallel will help overall performance. Will splitting up execution between 8 processing units get an 8x speed-up over a single processing unit? Why or why not?
-3.	Do you foresee any problems involved with splitting execution up between multiple processing units, from a scalability and performance perspective?
-
-#### Lecture 2
+#### Lecture 8
 
 ##### Topics
-* Hardware
-  * CPU, Memory, GPU  
-    ~ Multithreading
-  * CPU Memory Hierarchy    
-    ~ Caches  
-    ~ Locality
+* Optimization strategies
 
 ##### Learning Objectives
-* Understand multi-threading with respect to CPUs.
-* General high-level idea of how caching works. 
+* Understand the many factors involved with the optimization of a parallel solution
+* Exploration of different optimization strategies
+* Introduction on strategies to detect most threatening bottleneck(s).
 
-##### Homework: Assignment 1 – Due at the end of following week
-1.  In C or C++, what information can you infer about the size of the system’s caches. Use any timer’s you deem necessary
-2.	Outline the approach used in your code? How confident are you in your answers? Was there any noise in your results? If so, explain why you think this might occur
+#### Lecture 9
+* Guest lecture - term project idea (either Herzberg, Marc, Rick, etc)
+
+#### Lecture 10
+* Presentation of Assignment 3 results, class discussion
+  
+##### Homework: Assignment 4 - Discussion about results in Lecture 13
+1. Implement the map-reduce function with 2 solutions, one serial, and one in OpenCL
+2. Compare the OpenCL performance with a serial version
+3. Implement one of the optimization strategies discussed in lecture, and compare this with previous versions
+4. Discussion: Show and explain your results. Are they what you expected? Can you explain the performance differences between your solutions? Outline a strategy for further optimization.
 
