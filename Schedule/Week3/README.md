@@ -21,5 +21,5 @@
 1. Implement the map-reduce function with 2 solutions, one serial, and one in OpenCL
 2. Compare the OpenCL performance with a serial version
 3. Implement one of the optimization strategies discussed in lecture, and compare this with previous versions
-4. Discussion: Explain your results? Are they what you expected? Can you explain the performance differences between your solutions? Outline a strategy for further optimization.
+4. Discussion: Show and explain your results. Are they what you expected? Can you explain the performance differences between your solutions? Outline a strategy for further optimization.
 
