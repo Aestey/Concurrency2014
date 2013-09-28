@@ -8,7 +8,7 @@
   * GPU Memory Hierarchy
   	~ Warps
  	~ Synchronization
-* Hands on OpenCL example (**Guest lecture from Belaid at Compute Canada?**)
+* Hands on OpenCL example ( **Guest lecture from Belaid at Compute Canada?** )
   * How to connect, upload, and execute on Westgrid systems
   * Explanation and walkthrough of OpenCL code
 
