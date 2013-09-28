@@ -11,6 +11,7 @@
   * Preprocessing
   * Memory Coalescing
   * Local Reductions
+* Guest lecture - term project idea (either Herzberg, Marc, Rick, etc)
   
 ##### Learning Objectives
 * Understand the many factors involved with the optimization of a parallel solution
