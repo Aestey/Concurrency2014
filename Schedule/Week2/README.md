@@ -3,10 +3,10 @@
 ##### Topics
 * Software
   * Kernels
-  * OpenCL
+  * OpenCL  
     ~ Memory: global, local, shared  
-  * GPU Memory Hierarchy
-  	~ Warps
+  * GPU Memory Hierarchy  
+  	~ Warps  
  	~ Synchronization
 * Hands on OpenCL example ( **tentative: guest lecture by Belaid from Compute Canada?** )
   * How to connect, upload, and run a program on the Westgrid systems
