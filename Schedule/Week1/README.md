@@ -26,7 +26,8 @@
 ##### Topics
 * Hardware
   * CPU, Memory, GPU  
-    ~ Multithreading
+    ~ Multithreading  
+    ~ SIMD, MIMD
   * CPU Memory Hierarchy    
     ~ Caches  
     ~ Locality
