@@ -16,8 +16,10 @@
 
 ##### Homework: Assignment 0 - Due before following lecture
 1.  Introduce yourself, including your area of research and parallel programming experience.
-2.	Why do you think running code in parallel will help overall performance. Will splitting up execution between 8 processing units get an 8x speed-up over a single processing unit? Why or why not?
-3.	Do you foresee any problems involved with splitting execution up between multiple processing units, from a scalability and performance perspective?
+2.  What knowledge or experience would you like to get out of this course?
+3.	Why do you think running code in parallel will help overall performance? Will splitting up execution between 8 processing units get an 8x speed-up over a single processing unit? Why or why not?
+4.	Do you foresee any problems involved with splitting execution up between multiple processing units, from a scalability and performance perspective? What parts of the parallel process do you anticipate will be the most challenging?
+
 
 #### Lecture 2
 
